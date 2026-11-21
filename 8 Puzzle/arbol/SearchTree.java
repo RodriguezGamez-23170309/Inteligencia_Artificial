@@ -1,6 +1,4 @@
-/* Crow Sosa Jesus Adan - 23170132
- * Inteligencia Artificial 6:00 - 7:00 p.m.
- * 8 Puzzle   */
+// Omar Ernesto Rodriguez Gamez
 package arbol;
 
 import java.util.*;
